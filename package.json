@@ -12,7 +12,7 @@
   "main": "./index",
   "scripts": {
     "start" : "node ./index",
-    "test" : "vows --spec --isolate"
+    "test" : "vows --spec --isolate ./test"
   },
   "devDependencies": {
     "vows"    :  "*"
