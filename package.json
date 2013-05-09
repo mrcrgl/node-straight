@@ -1,7 +1,7 @@
 {
   "name" : "straight",
   "description": "Module to get rid of unnecessary nested functions.",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "author" : "Marc Riegel <mail@marclab.de>",
   "constributors" : [],
   "homepage": "https://github.com/mrcrgl/node-straight",
